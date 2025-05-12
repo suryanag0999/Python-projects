@@ -31,4 +31,4 @@ A secure password generator with a graphical user interface (GUI) built using **
 
 
 More projects on the way
-Feel free to explore, modify, and build on top of these projects to enhance your Python skills!
+Feel free to explore, modify, and build on top of these projects to enhance your Python skills! 
